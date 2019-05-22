@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/yuichi-tanaka/connect-aerospike",
   "dependencies": {
-    "aerospike": "3.4.1",
+    "aerospike": "3.4.0",
     "express-session": "^1.15.3"
   }
 }
